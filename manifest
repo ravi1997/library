@@ -1,0 +1,11 @@
+: 1
+name: library
+version: 0.1.0-a.0.z
+summary: rary C++ library
+license: MIT ; MIT License.
+description-file: README.md
+url: https://example.org/library
+email: ravi199777@gmail.com
+depends: * build2 >= 0.12.0
+depends: * bpkg >= 0.12.0
+#depends: libhello ^1.0.0
